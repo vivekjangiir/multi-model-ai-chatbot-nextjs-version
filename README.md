@@ -24,7 +24,7 @@ next js chatbot/
 ├── next.config.js
 └── package.json
 ```
-
+**[🚀 Live Demo](https://multi-model.netlify.app/)**
 ---
 
 ## Quick start
