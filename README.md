@@ -2,6 +2,8 @@
 
 A streaming chatbot for 100+ NVIDIA NIM models, built with Next.js 14 (App Router). This is the Next.js port of the original `chat.html` + `server.py` version — same design, same model catalog, no separate proxy server needed.
 
+[🚀 Live Demo](https://multi-model.netlify.app/)
+---
 ---
 
 ## What's inside
@@ -25,7 +27,6 @@ next js chatbot/
 └── package.json
 ```
 
----
 
 ## Quick start
 
