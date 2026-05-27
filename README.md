@@ -26,6 +26,9 @@ next js chatbot/
 ├── next.config.js
 └── package.json
 ```
+## Screenshot
+
+<img width="1153" height="897" alt="image" src="https://github.com/user-attachments/assets/78e989ce-47a4-4ca9-999e-a009057b0ec4" />
 
 
 ## Quick start
@@ -92,6 +95,9 @@ The sidebar includes 100+ models across 6 categories:
 | 🛡️ Safety | NemoGuard, GLiNER PII |
 
 ---
+
+## Screenshot
+<img width="1234" height="914" alt="image" src="https://github.com/user-attachments/assets/183f5a07-724d-472b-851c-c550da2a2edb" />
 
 ## Production build
 
